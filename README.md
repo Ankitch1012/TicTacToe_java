@@ -12,6 +12,7 @@ A classic Tic-Tac-Toe game implemented using Java Swing.
 
 ## How to Run
 javac TicTacToe.java
+
 java TicTacToe
 
 
